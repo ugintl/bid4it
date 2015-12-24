@@ -1,0 +1,1 @@
+An online marketplace website package where users can place auction-style bids on items and services from local, trusted businesses.
